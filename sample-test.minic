@@ -1,0 +1,7 @@
+all = 0
+i_m = 4
+iv = 6
+if ((im+iv)<2064){
+    all = all+1
+    iv = iv * i_m
+}
